@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Geiger;Attila;;;
+FN:Attila Geiger
+ORG:FraG Edelmetalle GbR
+TITLE:Sachwertexperte • Geschäftsführer
+TEL;TYPE=WORK,VOICE:+491727623503
+EMAIL;TYPE=WORK:info@frag-edelmetalle.de
+ADR;TYPE=WORK:;;Sulzelhalde 23;Frittlingen;;78665;Deutschland
+URL:https://www.frag-edelmetalle.de
+END:VCARD
